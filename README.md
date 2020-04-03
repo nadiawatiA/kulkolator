@@ -1,0 +1,2 @@
+# kulkolator
+kulkolator sederhana
